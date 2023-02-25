@@ -1,1 +1,2 @@
-Title: git for everyone
+Title: git for everyone  
+Subtitle: heelo
